@@ -225,7 +225,7 @@ SELECT
 FROM 
       walmartdata
 ORDER BY 
-	      Branch, 
+         Branch, 
         `date`;        
     
 ## 15. Find the total cogs for each customer type in each city. ##
