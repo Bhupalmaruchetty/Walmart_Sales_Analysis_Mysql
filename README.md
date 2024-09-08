@@ -359,3 +359,60 @@ Results:
 **Results:**
 
 ![image](https://github.com/user-attachments/assets/d96e2185-6c1e-44e7-b11d-0bcc61d27586)
+
+
+**Key Insights:**
+
+**1.Branch Transactions:**
+
+**Top:** Branch A has the most transactions, showing strong customer engagement.
+
+**Lowest:** Branch C has the fewest transactions, indicating less customer activity.
+
+**2.Branch Rankings:**
+
+**Highest:** Branch C (7.1) has the best customer satisfaction rating.
+
+**Lowest:** Branch B (6.8) has a lower rating, suggesting a need for improvement.
+
+**3.Product Line Sales:**
+
+**Top:** Electronics and Accessories sold the most units (971), showing high demand.
+
+**Lowest:** Health and Beauty sold the fewest units, indicating lower interest or potential inventory issues.
+
+**4.Gross Income by City:**
+
+Highest: Naypyitaw earned $5,265.40, reflecting strong performance.
+
+Lowest: Yangon earned $5,057.20, showing potential for growth.
+
+**5.Cash Transactions:**
+Heavy reliance on cash may suggest customer preferences or limited use of digital payments.
+
+**6.Weekend Activity:** 297 transactions occurred on weekends, indicating high customer activity.
+
+**7.Monthly Sales:**
+
+**Top:** January 2019 had the highest sales ($116,291.91) and gross income ($5,537.30).
+
+**Lowest:** February 2019 had the lowest sales ($97,219.41) and gross income ($4,628.90).
+
+**8.Customer Purchases Analysis:**
+
+Normal customer purchases peaked in January, dropped in February, and then rose again in March. Member purchases saw a decrease in February but recovered in March.
+
+**Recommendations:**
+
+**1.Boost February Sales:** Run promotions to increase sales during the low February period.
+
+**2.Improve Branch B:** Apply successful strategies from Branch C to enhance Branch B’s performance.
+
+**3.Enhance Yangon Sales:** Increase marketing efforts to grow sales in Yangon.
+
+**4.Optimize Weekends:** Increase staffing and inventory for the high weekend transaction volume.
+
+**5.Promote High Performers:** Focus on selling Electronics and Accessories more, and improve Health and Beauty sales.
+
+**6.Adjust Strategies Regularly:**
+ Continuously monitor sales data and adjust strategies to improve performance.
