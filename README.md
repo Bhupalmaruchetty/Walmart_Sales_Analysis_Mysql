@@ -1,4 +1,4 @@
-**Walmart Sales Analysis Using Mysql:** 
+# Walmart Sales Analysis Using Mysql 🛒 
 
 
 ![image](https://github.com/user-attachments/assets/71f278da-2994-493c-a5e9-6538ab0ad66c)
