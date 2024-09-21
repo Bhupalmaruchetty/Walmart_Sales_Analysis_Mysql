@@ -113,13 +113,6 @@ In the left panel, choose your database, right-click, and select Table Data Impo
 ![image](https://github.com/user-attachments/assets/b2939f6f-f249-4fa5-a69a-8fe4905bf253)
 
 
-1.Using **SELECT***  get everything from the rows that match.
-
-2.The **FROM** clause is used to specify the **walmartdata** from where you want to retrieve data.
-
-3.The **WHERE** Clause Filters the results to include only the rows where **Branch="A"** .
-
-
 
 **2. Find the total sales for each product line:**
 
@@ -136,18 +129,6 @@ In the left panel, choose your database, right-click, and select Table Data Impo
 
 ![image](https://github.com/user-attachments/assets/bd871c19-364c-454d-aa28-ef4f3b9eef38)
       
-
-**1.FROM walmartdata:** It looks for this information in the walmartdata table.
-
-**2.GROUP BY:** It groups the data by each product type, so the total sales are calculated separately for each type.
-
-**3.SELECT :**
-
-**Product_line:** The type of product.
-
-**round(SUM(total),2) AS total_sales:** The total sales  for each product type, rounded to two decimal places.
-
-
 **3.Retrieve all rows from the Walmart dataset where the payment method is "Cash".**
 
       SELECT *
